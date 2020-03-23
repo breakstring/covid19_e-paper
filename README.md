@@ -15,14 +15,14 @@ A wearable e-paper device to track the covid19 status
 Just connect the driver board with your e-paper module, and deploy the code to the board. (Do not forgot to change the WiFi SSID and password). It will get the confirmed/recovered/deaths data of global, China, Italy, Spain, USA and Germany, and show the data with circle. If you want more, just add logo data of the country and also the related API endpoints. 
 
 # Sample pictures
-![All](images/ALL.jpg "Global")
-![China](images/CN.jpg "China")
-![Italy](images/IT.jpg "Italy")
-![Spain](images/ES.jpg "Spain")
-![USA](images/USA.jpg "USA")
-![Germany](images/DE.jpg "Germany")
+![All](/images/ALL.jpg "Global")
+![China](/images/CN.jpg "China")
+![Italy](/images/IT.jpg "Italy")
+![Spain](/images/ES.jpg "Spain")
+![USA](/images/USA.jpg "USA")
+![Germany](/images/DE.jpg "Germany")
 
 # Next
 I just stick the e-paper case on my respirator, 3M 6502QL with 7093 P100 particulate box. Share with my mobile device's hotspot and charged with a power banck.
-![1](images/1.jpg)
-![2](images/2.jpg)
+![1](/images/1.jpg)
+![2](/images/2.jpg)
