@@ -3,8 +3,11 @@ A wearable e-paper device to track the covid19 status
 
 # Hardware
  - Waveshare [E-Paper_ESP32_Driver_Board](http://www.waveshare.net/wiki/E-Paper_ESP32_Driver_Board): Which is an ESP32 dev board with FFC slot.
+ ![ESP32 Driver Board](/images/board.jpg)
  - Waveshare [2.9inch e-Paper Module (B)](http://www.waveshare.net/wiki/2.9inch_e-Paper_Module_(B)): 3 colors (white, black, red) 
+ ![2.9inch 3 colors e-Paper module](/images/module.jpg)
  - Waveshare [2.9inch e-Paper case](http://www.waveshare.net/shop/2.9inch-e-Paper-Case.htm)
+ ![e-Paper case](/images/case.jpg)
  
 # Depend on
  - Diplay render: [GxEPD2](https://github.com/ZinggJM/GxEPD2)
